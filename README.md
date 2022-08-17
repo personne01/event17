@@ -6,11 +6,11 @@ pengertian kolonialisme dan imperialisme hingga perjuangan melawan bangsa sendir
 
 | Title        |   | Description                    |   
 |--------------|---|--------------------------------|
-| **Nama Discord dan Id** | : | Ex. [I.T] <roniDozer /> (70833072904129742) |
+| **Nama Discord dan Id** | : | Ex. [I.T] < roniDozer /> (70833072904129742) |
 | **Author**       | : | M. Khoironi |
 | **Tema**       | : | Masa Kolonial dan imperialisme |
 | **Category**    | : | Desain Website                 |
-| **Animasi Digunakan** | : | [Animate.css](https://animate.style/) |
+| **Animasi Digunakan** | : | |
 | **Font Digunakan** | : | [Lucida Sans]|
 | **Referensi** | : ||
 
